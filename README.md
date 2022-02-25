@@ -2,17 +2,17 @@
 
 Hi, I'm Junior Gutiérrez and I'm from Asunción, capital of Paraguay 🇵🇾
 
-## University Career 👨‍🎓:
+## University Career 👨‍🎓
 I currently studying "Ingeniería en Informática", this career is a mix between computer science and more classic engineering.
 
-## Self-learning:
+## Self-learning
 Apart from my university career, I dedicate myself to learning on platforms such as Platzi and Udemy, my Platzi profile is: https://platzi.com/p/jg2kpy/
 
-## My favorite programming languages are:
+## My favorite programming languages
 
 <img src="https://img.shields.io/badge/C/C++%20-659bd3" /> <img src="https://img.shields.io/badge/Java%20-ec2025" /> <img src="https://img.shields.io/badge/Python%20-ffd23e" /> <img src="https://img.shields.io/badge/JavaScript%20-f7e018" /> <img src="https://img.shields.io/badge/TypeScript%20-2d79c7" />
 
-## My favorite Linux distributions are 🐧:
+## My favorite Linux distributions 🐧
 
 <img src="https://img.shields.io/badge/Debian%20-d70751" /> <img src="https://img.shields.io/badge/Lubuntu%20-0068c8" /> <img src="https://img.shields.io/badge/Arch%20-1793d1" />
 
