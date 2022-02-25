@@ -10,16 +10,16 @@ Apart from my university career, I dedicate myself to learning on platforms such
 
 ## My favorite programming languages are:
 
-- <img src="https://img.shields.io/badge/C/C++%20-659bd3" />
-- <img src="https://img.shields.io/badge/Java%20-ec2025" />
-- <img src="https://img.shields.io/badge/Python%20-ffd23e" />
-- <img src="https://img.shields.io/badge/JavaScript%20-f7e018" />/<img src="https://img.shields.io/badge/TypeScript%20-2d79c7" />
+<img src="https://img.shields.io/badge/C/C++%20-659bd3" />
+<img src="https://img.shields.io/badge/Java%20-ec2025" />
+<img src="https://img.shields.io/badge/Python%20-ffd23e" />
+<img src="https://img.shields.io/badge/JavaScript%20-f7e018" />/<img src="https://img.shields.io/badge/TypeScript%20-2d79c7" />
 
 ## My favorite Linux distributions are:
 
-- <img src="https://img.shields.io/badge/Debian%20-d70751" />
-- <img src="https://img.shields.io/badge/Lubuntu%20-0068c8" />
-- <img src="https://img.shields.io/badge/Arch%20-1793d1" />
+<img src="https://img.shields.io/badge/Debian%20-d70751" />
+<img src="https://img.shields.io/badge/Lubuntu%20-0068c8" />
+<img src="https://img.shields.io/badge/Arch%20-1793d1" />
 
 ## Contact
 
