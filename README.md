@@ -6,7 +6,7 @@ Hi, I'm Junior Gutiérrez and I'm from Asunción, capital of Paraguay 🇵🇾
 I currently studying "Ingeniería en Informática", this career is a mix between computer science and more classic engineering.
 
 ## Self-learning
-Apart from my university career, I dedicate myself to learning on platforms such as Platzi and Udemy, my Platzi profile is: https://platzi.com/p/jg2kpy/
+Apart from my university career, I dedicate myself to learning on platforms such as Platzi and Udemy
 
 ## My favorite programming languages
 
