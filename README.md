@@ -11,8 +11,8 @@ Apart from my university career, I dedicate myself to learning on platforms such
 ## My favorite programming languages
 
 
-
-<img src="https://shields.io/badge/C/C++-659bd3?&logo=c" /> <img src="https://img.shields.io/badge/Java%20-ec2025?&logo=java" /> <img src="https://img.shields.io/badge/Python%20-ffd23e?&logo=python" /> <img src="https://img.shields.io/badge/JavaScript%20-f0c902?&logo=javascript" /> <img src="https://img.shields.io/badge/TypeScript%20-28588a?&logo=typescript" />
+<a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=c&sort=" target="_blank"><img src="https://shields.io/badge/C/C++-659bd3?&logo=c" /></a>
+<img src="https://img.shields.io/badge/Java%20-ec2025?&logo=java" /> <img src="https://img.shields.io/badge/Python%20-ffd23e?&logo=python" /> <img src="https://img.shields.io/badge/JavaScript%20-f0c902?&logo=javascript" /> <img src="https://img.shields.io/badge/TypeScript%20-28588a?&logo=typescript" />
 
 ## My favorite Linux distributions 🐧
 
