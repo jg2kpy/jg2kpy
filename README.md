@@ -21,7 +21,7 @@ Apart from my university career, I dedicate myself to learning on platforms such
   
 <a href="https://www.debian.org/" target="_blank"><img src="https://img.shields.io/badge/Debian%20-d70751?&logo=debian" /></a>
 <a href="https://lubuntu.me/" target="_blank"><img src="https://img.shields.io/badge/Lubuntu%20-0068c8?&logo=lubuntu" /> </a>
-<a href="=https://github.com/jg2kpy/dotfiles" target="_blank"><img src="https://img.shields.io/badge/Arch%20-15709e?&logo=archlinux" /></a>
+<a href="https://github.com/jg2kpy/dotfiles" target="_blank"><img src="https://img.shields.io/badge/Arch%20-15709e?&logo=archlinux" /></a>
 
 ## Contact
 
