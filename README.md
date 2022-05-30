@@ -12,7 +12,7 @@ Apart from my university career, I dedicate myself to learning on platforms such
 
 
 
-<img src="https://shields.io/badge/C/C++-659bd3?&logo=c" /> <img src="https://img.shields.io/badge/Java%20-ec2025?&logo=java" /> <img src="https://img.shields.io/badge/Python%20-ffd23e?&logo=python" /> <img src="https://img.shields.io/badge/JavaScript%20-c9a904?&logo=javascript" /> <img src="https://img.shields.io/badge/TypeScript%20-28588a?&logo=typescript" />
+<img src="https://shields.io/badge/C/C++-659bd3?&logo=c" /> <img src="https://img.shields.io/badge/Java%20-ec2025?&logo=java" /> <img src="https://img.shields.io/badge/Python%20-ffd23e?&logo=python" /> <img src="https://img.shields.io/badge/JavaScript%20-f0c902?&logo=javascript" /> <img src="https://img.shields.io/badge/TypeScript%20-28588a?&logo=typescript" />
 
 ## My favorite Linux distributions 🐧
 
