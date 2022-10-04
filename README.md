@@ -1,4 +1,4 @@
-## I like Programming, Networking and Backend 👨‍💻
+## I like Programming, Computer Networks and Backend 👨‍💻
 
 Hi, I'm Junior Gutiérrez and I'm from Asunción, capital of Paraguay 🇵🇾
 
