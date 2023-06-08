@@ -1,6 +1,6 @@
 ## I like Programming, Computer Networks and Backend 👨‍💻
 
-Hi, I'm Junior Gutiérrez and I'm from Asunción, capital of Paraguay 🇵🇾
+Hi, My name is Junior Gutiérrez and I'm from Asunción, capital of Paraguay 🇵🇾
 
 ## University Career 👨‍🎓
 I am currently studying "Ingeniería en Informática", this career is a mix of computer science and engineering.
