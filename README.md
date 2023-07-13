@@ -27,4 +27,4 @@ Apart from my university career, I dedicate myself to learning on platforms such
 
 <a href="mailto:jlgutierrez2000@fpuna.edu.py?subject=Contact%20via%20Git%20Hub" target="_blank"><img src="https://img.shields.io/badge/Email-fff.svg?&logo=gmail" alt="Email"></a>
 <a href="https://www.linkedin.com/in/jose-luis-junior-gutierrez-aguero/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://steamcommunity.com/id/jg2kpy" target="_blank"><img src="https://img.shields.io/badge/Steam-242526.svg?&style=flat-square&logo=steam&logoColor=white" alt="Steam"></a>
+<a href="https://twitter.com/jg2kpy" target="_blank"><img src="https://img.shields.io/badge/Twitter-1da1f2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
