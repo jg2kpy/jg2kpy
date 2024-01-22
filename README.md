@@ -3,7 +3,7 @@ I like Programming, Software Engineering, Mobile and Backend development 👨‍
 I'm from Asunción, capital of Paraguay 🇵🇾.
 
 ## University Career 👨‍🎓
-I'm currently studying "Ingeniería en Informática" at <a href="https://www.pol.una.py" target="_blank" style="text-decoration:none">FP-UNA</a> (Facultad Politécnica - Universidad Nacional de Asunción).\
+I'm currently studying "Ingeniería en Informática" at <a href="https://www.pol.una.py" target="_blank" style="text-decoration:none">FP-UNA</a>.\
 This major is a mix of Computer Science knowledge with Engineering skills.\
 I did a one-semester study abroad at Wichita State University.
 
@@ -18,6 +18,8 @@ I did a one-semester study abroad at Wichita State University.
 <a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=javascript&sort=" target="_blank"><img src="https://img.shields.io/badge/Node.js%20-303030?&logo=node.js"></a>
 <a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=typescript&sort=" target="_blank"><img src="https://img.shields.io/badge/TypeScript%20-ffffff?&logo=typescript"></a>
 <a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=dart&sort=" target="_blank"><img src="https://img.shields.io/badge/Flutter%20-42A5F5?&logo=flutter"></a>
+<a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=sql&sort=" target="_blank"><img src="https://img.shields.io/badge/SQL-848484?&logo=postgresql"></a>
+<a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=bash&sort=" target="_blank"><img src="https://img.shields.io/badge/Linux%20-000000?&logo=linux"></a>
 
 ## Contact
 
