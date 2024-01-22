@@ -1,15 +1,15 @@
-## I like Programming, Computer Networks and Backend 👨‍💻
-
-Hi, My name is Junior Gutiérrez and I'm from Asunción, capital of Paraguay 🇵🇾
+## Hi, I'm Junior Gutiérrez
+I like Programming, Mobile Development, Backend and Computer Networks 👨‍💻
+I'm from Asunción, capital of Paraguay 🇵🇾
 
 ## University Career 👨‍🎓
-I am currently studying "Ingeniería en Informática", this career is a mix of computer science and engineering.
+I am currently studying "Ingeniería en Informática" at FP-UNA (Facultad Politécnica - Universidad Nacional de Asunción)
+This career is a mix of computer science knowledge with engineering skills.
 
 ## Self-learning
 Apart from my university career, I dedicate myself to learning on platforms such as Platzi and Udemy.
 
 ## Programming languages and technologies
-
 
 <a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=c&sort=" target="_blank"><img src="https://shields.io/badge/C/C++-659bd3?&logo=c"></a>
 <a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=java&sort=" target="_blank"><img src="https://img.shields.io/badge/Java%20-f89820?&logo=openjdk"></a>
