@@ -1,11 +1,11 @@
 ## Hi, I'm Junior Gutiérrez
-I like Programming, Software Engineering, Mobile and Backend development 👨‍💻\
-I'm from Asunción, capital of Paraguay 🇵🇾
+I like Programming, Software Engineering, Mobile and Backend development 👨‍💻.\
+I'm from Asunción, capital of Paraguay 🇵🇾.
 
 ## University Career 👨‍🎓
-I'm currently studying "Ingeniería en Informática" at <a href="https://www.pol.una.py" target="_blank" style="text-decoration:none">FP-UNA</a> (Facultad Politécnica - Universidad Nacional de Asunción)\
-This major is a mix of Computer Science knowledge with Engineering skills\
-I did a one-semester study abroad at Wichita State University
+I'm currently studying "Ingeniería en Informática" at <a href="https://www.pol.una.py" target="_blank" style="text-decoration:none">FP-UNA</a> (Facultad Politécnica - Universidad Nacional de Asunción).\
+This major is a mix of Computer Science knowledge with Engineering skills.\
+I did a one-semester study abroad at Wichita State University.
 
 ## Programming languages and technologies
 
@@ -13,7 +13,7 @@ I did a one-semester study abroad at Wichita State University
 <a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=java&sort=" target="_blank"><img src="https://img.shields.io/badge/Java%20-E11F21?&logo=openjdk"></a>
 <a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=java&sort=" target="_blank"><img src="https://img.shields.io/badge/Spring-177245?&logo=spring"></a>
 <a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=python&sort=" target="_blank"><img src="https://img.shields.io/badge/Python%20-ffd23e?&logo=python"></a>
-<a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=python&sort=" target="_blank"><img src="https://img.shields.io/badge/Django%20-177245?&logo=django"></a>\
+<a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=python&sort=" target="_blank"><img src="https://img.shields.io/badge/Django%20-177245?&logo=django"></a>
 <a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=javascript&sort=" target="_blank"><img src="https://img.shields.io/badge/JavaScript%20-323330?&logo=javascript"></a>
 <a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=javascript&sort=" target="_blank"><img src="https://img.shields.io/badge/Node.js%20-303030?&logo=node.js"></a>
 <a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=typescript&sort=" target="_blank"><img src="https://img.shields.io/badge/TypeScript%20-ffffff?&logo=typescript"></a>
