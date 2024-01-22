@@ -16,7 +16,7 @@ Apart from my university career, I dedicate myself to learning on platforms such
 <a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=python&sort=" target="_blank"><img src="https://img.shields.io/badge/Python%20-ffd23e?&logo=python"></a>
 <a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=javascript&sort=" target="_blank"><img src="https://img.shields.io/badge/JavaScript%20-323330?&logo=javascript"></a>
 <a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=typescript&sort=" target="_blank"><img src="https://img.shields.io/badge/TypeScript%20-ffffff?&logo=typescript"></a>
-<a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=dart&sort=" target="_blank"><img src="https://img.shields.io/badge/Flutter%20-0769ad?&logo=flutter"></a>
+<a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=dart&sort=" target="_blank"><img src="https://img.shields.io/badge/Flutter%20-42A5F5?&logo=flutter"></a>
 
 ## Contact
 
