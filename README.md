@@ -5,7 +5,7 @@ I'm from Asunción, capital of Paraguay 🇵🇾.
 ## University Career 👨‍🎓
 I'm currently studying "Ingeniería en Informática" at <a href="https://www.pol.una.py" target="_blank" style="text-decoration:none">FP-UNA</a>.\
 This major is a mix of Computer Science knowledge with Engineering skills.\
-I did a one-semester study abroad at Wichita State University 🇺🇸.
+I did an one-semester study abroad at Wichita State University 🇺🇸.
 
 ## Programming languages and technologies
 
