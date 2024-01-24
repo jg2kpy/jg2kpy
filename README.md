@@ -1,13 +1,13 @@
 ## Hi, I'm Junior Gutiérrez
-I like Programming, Software Engineering, Mobile and Backend development 👨‍💻.\
-I'm from Asunción, capital of Paraguay 🇵🇾.
+ - I like Programming, Software Engineering, Mobile and Backend development 👨‍💻.
+ - I'm from Asunción, capital of Paraguay 🇵🇾.
 
 ## University Career 👨‍🎓
-I'm currently studying "Ingeniería en Informática" at <a href="https://www.pol.una.py" target="_blank" style="text-decoration:none">FP-UNA</a>.\
-This major is a mix of Computer Science knowledge with Engineering skills.\
-I did an one-semester study abroad at Wichita State University 🇺🇸.
+ - I'm currently studying "Ingeniería en Informática" at <a href="https://www.pol.una.py" target="_blank" style="text-decoration:none">FP-UNA</a>.
+ - This major is a mix of Computer Science knowledge with Engineering skills.
+ - I did an one-semester study abroad at Wichita State University 🇺🇸.
 
-## Programming languages and technologies
+## Skills
 
 <a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=c&sort=" target="_blank"><img src="https://shields.io/badge/C/C++-659bd3?&logo=c"></a>
 <a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=java&sort=" target="_blank"><img src="https://img.shields.io/badge/Java-E11F21?&logo=openjdk"></a>
