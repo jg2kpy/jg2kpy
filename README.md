@@ -7,7 +7,7 @@
  - This major is a mix of Computer Science knowledge with Engineering skills.
  - I did an one-semester study abroad at Wichita State University 🇺🇸.
 
-## Skills
+## Programming languages and Frameworks
 
 <a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=c&sort=" target="_blank"><img src="https://shields.io/badge/C/C++-659bd3?&logo=c"></a>
 <a href="https://github.com/jg2kpy?tab=repositories&q=&type=&language=java&sort=" target="_blank"><img src="https://img.shields.io/badge/Java-E11F21?&logo=openjdk"></a>
